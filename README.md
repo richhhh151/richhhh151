@@ -12,7 +12,7 @@
 - **感兴趣的技术方向** 大语言模型、计算机视觉、多模态、嵌入式开发
 # ✨未来规划
 - 对过于久远的未来没有太具体的打算
-- 未来三年通过保研或考研希望先读完研究生，继续观望社会形势
+- 由于当前就业形式过于严峻，打算先沉淀一段时间，希望未来三年通过保研或考研希望先读完研究生
 <!--
 **richhhh151/richhhh151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
